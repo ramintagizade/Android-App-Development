@@ -13,6 +13,6 @@ public class AboutMeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_about_me);
         WebView aboutMe = (WebView) findViewById(R.id.wbAboutMe);
         aboutMe.setWebViewClient(new WebViewClient());
-        aboutMe.loadUrl("https://www.ramintagizade.github.io");
+        aboutMe.loadUrl("https://www.twitter.com/ramintghz");
     }
 }
